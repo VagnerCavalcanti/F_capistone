@@ -1,0 +1,38 @@
+Data Link
+https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
+
+
+-What are Base means?
+ This dataset has only a for-hire vehicle (FHV). Which means that does not have a table where
+the driver has their own car. So Base is the company that rents the car for a Uber (or other 
+companies) driver.
+
+-What are Firstclass and Highclass means?
+Not sure exactly what is that. It does not seem economic and lux. It looks more 2 different 
+companies with luxury cars.
+
+-Comper Lyft, Prestige, Skyline,Uber....10 company!
+
+-How is the traffic of Uber and other in NY?
+
+-Probability of a pickup Firstclass and Highclass by location?
+
+	Sean Reed 2:28 PM
+	"Remember, think about all your visualizations as if you were a working data analyst.
+	We are your bosses, give us insights!"
+
+Not for Uber.
+"As of April 1, 2019, we are not accepting new for-hire vehicle driver sign-ups in New York City,
+ due in part to new TLC regulations.
+Create an account to join the waitlist to drive with Uber in NYC, and consider other ways to earn
+ with Uber, like delivering with Uber Eats or driving with Uber outside of the five boroughs."
+ (https://www.uber.com/a/drive-pp/?exp=nyc&_ga=2.152886780.457752358.1576516862-1933561675.
+1576256863&_gac=1.89291497.1576256864.CjwKCAiAis3vBRBdEiwAHXB29O5oEg_I8xXlxIrLmOv5qFM2dI1pRE
+gx2mgm-bI8YFZ8Y4aKzE8MxRoCuIoQAvD_BwE)
+
+Interesting data.
+(https://data.cityofnewyork.us/Transportation/2019-High-Volume-FHV-Trip-Records/4p5c-cbgn)
+
+Goals for today Dec. 17.
+	-Selec data that will be used
+	-Make some measurement
