@@ -32,7 +32,3 @@ gx2mgm-bI8YFZ8Y4aKzE8MxRoCuIoQAvD_BwE)
 
 Interesting data.
 (https://data.cityofnewyork.us/Transportation/2019-High-Volume-FHV-Trip-Records/4p5c-cbgn)
-
-Goals for today Dec. 17.
-	-Selec data that will be used
-	-Make some measurement
